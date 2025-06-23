@@ -1,6 +1,8 @@
-⟡ || 👨‍💻 Estudiante de Técnica en Programación 
+⟡ || 👨‍💻 Estudiante de Técnica en Programación.
 
-⟡ || 🧉 Buenos Aires, Argentina
+⟡ || 🏫 Secundaria: Técnica N°1.
+
+⟡ || 🧉 Buenos Aires, Argentina.
 
 ⟡ || 📧 Email: cveltri29@gmail.com 
 
