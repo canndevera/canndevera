@@ -1,5 +1,7 @@
 ⟡ || 👨‍💻 Estudiante de Técnica en Programación 
+
 ⟡ || 🧉 Buenos Aires, Argentina
+
 ⟡ || 📧 Email: cveltri29@gmail.com 
 
 
